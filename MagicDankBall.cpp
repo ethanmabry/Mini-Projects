@@ -5,7 +5,7 @@ int main()
 std::cout << "MAJESTIC BALL OF FORTUNE AND DOOM\n";
 
 srand(time(NULL));
-int answer = std::rand() % 10;
+int answer = std::rand() % 11;
 
 
 if (answer == 0)
