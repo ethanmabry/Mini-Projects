@@ -35,7 +35,7 @@ else if (answer == 4)
 
 else if (answer == 5)
 {
-  std::cout << "The new Fall Guys game is pretty dope though. Oh wait.. uh, I mean, it'll definitely happen.\n";
+  std::cout << "Yes.\n";
 }
 
 else if (answer == 6)
