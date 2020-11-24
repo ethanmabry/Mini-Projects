@@ -15,7 +15,7 @@ if (answer == 0)
 
 else if (answer == 1 )
 {
-  std::cout << "Maybe. IDK.\n";
+  std::cout << "Maybe.\n";
 }
 
 else if (answer == 2)
@@ -55,7 +55,7 @@ else if (answer == 8)
 
 else if (answer == 9)
 {
-  std::cout << "That's too spicy. So no.\n";
+  std::cout << "No yet again.\n";
 }
 
 else if (answer == 10)
